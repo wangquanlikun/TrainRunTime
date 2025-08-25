@@ -5,7 +5,7 @@ TrainRunTime -- 列车运行图绘制器
 &emsp; &emsp;  
 示例：以途径成自宜高铁的列车为例  
   
-![成宜高铁示例](./.Intro/TrainRunTimeExample.png)  
+![成宜高铁示例](./Intro/TrainRunTimeExample.png)  
   
 不同颜色代表不同车次  
 点击线段可查看详细信息  
